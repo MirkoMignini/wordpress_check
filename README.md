@@ -1,4 +1,4 @@
-wordpress_check
+wordpress_theme_finder
 ===================
 
 Gem to check if a site is built with wordpress and get theme informations.
@@ -11,7 +11,7 @@ Gem to check if a site is built with wordpress and get theme informations.
 
 Add it to your Gemfile:
 
-`gem 'wordpress_check'`
+`gem 'wordpress_theme_finder'`
 
 Then:
 
@@ -23,7 +23,7 @@ TODO
 
 ## Contributing
 
-1. Fork it ( http://github.com/MirkoMignini/wordpress_check/fork )
+1. Fork it ( http://github.com/MirkoMignini/wordpress_theme_finder/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
