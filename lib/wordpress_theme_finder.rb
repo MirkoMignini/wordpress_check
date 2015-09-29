@@ -4,8 +4,10 @@ require 'open-uri'
 module WordpressThemeFinder
 
   def self.check(url)
-    doc = Nokogiri::HTML(open('https://wp-themes.com/twentyfifteen/'))
+    doc = Nokogiri::HTML(open(url))
     style_css = doc.xpath("//link[@rel='stylesheet' and contains(@href, 'style.css')]/@href").first
+
+    return nil if style_css.nil?
 
     values = Hash.new
 
