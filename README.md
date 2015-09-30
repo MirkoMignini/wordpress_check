@@ -1,7 +1,7 @@
 wordpress_theme_finder
 ===================
 
-Gem to check if a site is built with wordpress and get theme informations.
+Gem to check if a website is built with wordpress and get theme informations.
 
 ## Requirements
 
@@ -19,7 +19,25 @@ Then:
 
 ## Usage
 
-TODO
+Call check function of WordpressThemeFinder, param is url.
+
+```ruby
+result = WordpressThemeFinder.check(site_url)
+```
+
+If result is null website is not built with wordpress. 
+
+If not null result contains a hash with one ore more of the following keys:
+* Theme Name
+* Theme URI
+* Author
+* Author URI
+* Description
+* Version
+* License
+* License URI
+* Tags
+* Text Domain
 
 ## Contributing
 
