@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MirkoMignini/wordpress_theme_finder.png?branch=master)](https://travis-ci.org/MirkoMignini/wordpress_theme_finder)
+
 wordpress_theme_finder
 ===================
 
