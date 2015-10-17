@@ -20,3 +20,6 @@ DEPENDENCIES
   minitest
   rake
   wordpress_theme_finder!
+
+BUNDLED WITH
+   1.10.6
