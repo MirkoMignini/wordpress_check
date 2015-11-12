@@ -24,5 +24,4 @@ module WordpressThemeFinder
 
     values
   end
-
 end
