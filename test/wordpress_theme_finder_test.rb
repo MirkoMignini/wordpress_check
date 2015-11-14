@@ -10,7 +10,7 @@ class TestAll < Minitest::Test
   def test_wordpress_site
     result = WordpressThemeFinder.check('https://wp-themes.com/twentyfifteen/')
     assert_kind_of Hash, result
-
     assert_equal 'Twenty Fifteen', result['Theme Name']
+    assert_equal 'https://wordpress.org/themes/twentyfifteen/', result['Theme URI']
   end
 end
