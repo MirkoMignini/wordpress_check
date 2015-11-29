@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/MirkoMignini/wordpress_theme_finder.png?branch=master)](https://travis-ci.org/MirkoMignini/wordpress_theme_finder)
+[![Gem Version](https://badge.fury.io/rb/wordpress_theme_finder.svg)](https://badge.fury.io/rb/wordpress_theme_finder)
 
 wordpress_theme_finder
 ===================
