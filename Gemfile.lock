@@ -9,7 +9,7 @@ GEM
   specs:
     mini_portile2 (2.0.0)
     minitest (5.8.3)
-    nokogiri (1.6.7)
+    nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
     rake (10.4.2)
 
