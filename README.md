@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/MirkoMignini/wordpress_theme_finder.png?branch=master)](https://travis-ci.org/MirkoMignini/wordpress_theme_finder)
 [![Gem Version](https://badge.fury.io/rb/wordpress_theme_finder.svg)](https://badge.fury.io/rb/wordpress_theme_finder)
+[![Coverage Status](https://coveralls.io/repos/MirkoMignini/wordpress_theme_finder/badge.svg?branch=master&service=github)](https://coveralls.io/github/MirkoMignini/wordpress_theme_finder?branch=master)
 
 wordpress_theme_finder
 ===================
@@ -28,7 +29,7 @@ Call check function of WordpressThemeFinder, param is url.
 result = WordpressThemeFinder.check(site_url)
 ```
 
-If result is null website is not built with wordpress. 
+If result is null website is not built with wordpress.
 
 If not null result contains a hash with one ore more of the following keys:
 * Theme Name

@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 require 'minitest/autorun'
 require_relative '../lib/wordpress_theme_finder'
 

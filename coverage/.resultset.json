@@ -1,0 +1,36 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/mirkomignini/Projects/wordpress_theme_finder/lib/wordpress_theme_finder.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        2,
+        null,
+        2,
+        null,
+        1,
+        null,
+        2,
+        1,
+        6006,
+        60060,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1452725620
+  }
+}
