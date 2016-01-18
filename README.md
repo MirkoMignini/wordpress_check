@@ -9,7 +9,7 @@ Gem to check if a website is built with wordpress and get theme informations.
 
 ## Requirements
 
-* Ruby 1.9+
+* Ruby 1.9.3+
 
 ## Installation
 
